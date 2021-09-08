@@ -1,0 +1,15 @@
+body {
+    border: 2px solid black;
+}
+form div {
+    padding: 10px 0;
+}
+.types, #u-cistern, #u-vehicle, .views, #uv-machanical, 
+#uv-van, #uv-semi-trailer, #uv-trailer, #uv-semi-cistern, 
+#uv-cistern, #uv-memu, .materials, .categories, .purposes, 
+.classes, #class-1, #class-2, #class-3, #class-4_1, #class-4_2, 
+#class-4_3, #class-5_1, #class-5_2, #class-6_1, #class-6_2, 
+#class-7, #class-8, #class-9, .region, .year-issue, .survey, 
+.manufacturer, #sbmt-button, #reset-btn {
+    display: none;
+}
